@@ -10,7 +10,7 @@ This is a project that attempts to predict the result of a football match based 
 09/10/2021
 
 # Motivation
-The project was a requirement by Moringa School, as a weekly Independent Project in the second week of Module 1 of core.
+The project was a requirement by Moringa School, as a weekly Independent Project in the first week of Module 2 of core in Data Science.
 
 Another motivation is to practice Machine Learning.
 
